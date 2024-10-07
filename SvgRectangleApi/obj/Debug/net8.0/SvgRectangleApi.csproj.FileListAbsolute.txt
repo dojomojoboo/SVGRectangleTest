@@ -33,3 +33,4 @@
 /Users/julesair/RiderProjects/Reda_Test_7Oct24/SvgRectangleApi/obj/Debug/net8.0/SvgRectangleApi.pdb
 /Users/julesair/RiderProjects/Reda_Test_7Oct24/SvgRectangleApi/obj/Debug/net8.0/SvgRectangleApi.genruntimeconfig.cache
 /Users/julesair/RiderProjects/Reda_Test_7Oct24/SvgRectangleApi/obj/Debug/net8.0/ref/SvgRectangleApi.dll
+/Users/julesair/RiderProjects/Reda_Test_7Oct24/SvgRectangleApi/obj/Debug/net8.0/SvgRectangleApi.sourcelink.json

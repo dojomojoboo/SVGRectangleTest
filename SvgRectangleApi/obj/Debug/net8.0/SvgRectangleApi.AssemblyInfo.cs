@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SvgRectangleApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9d68a0bf18003fd1958f546ebe07c56b24fda23b")]
 [assembly: System.Reflection.AssemblyProductAttribute("SvgRectangleApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SvgRectangleApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
